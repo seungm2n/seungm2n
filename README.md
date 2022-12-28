@@ -21,7 +21,7 @@ Let's not be conceited!
 <div align="center">
 ❤️ I love...
   
-📸사진🏂스노우보드  
+📸사진
 </div>
 <br> 
 <div align="center">
