@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=BE%20HyeonMin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=BE%20SeungMin&fontSize=90" />
 </div>
 <div align="center">
 Developers looking to the future rather than the present
