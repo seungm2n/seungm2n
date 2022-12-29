@@ -44,7 +44,7 @@ Let's not be conceited!
 
 <div align="center">  
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seungm2n&show_icons=true&theme=radical) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungm2n&layout=compact&theme=dracula)](https://github.com/metleeha) -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungm2n&layout=compact&theme=dracula)](https://github.com/metleeha)
 </div>
 
 **seungm2n/seungm2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
