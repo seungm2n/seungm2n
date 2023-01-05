@@ -43,7 +43,7 @@ Let's not be conceited!
 </div><br>
 
 <div align="center">  
-  
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seungm2n&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungm2n&layout=compact&theme=dracula)
 
@@ -63,4 +63,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungm2n&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
+  </div>
