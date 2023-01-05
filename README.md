@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungm2n&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=BE%20SeungMin&fontSize=90" />
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungm2n&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 </div>
 <div align="center">
 Developers looking to the future rather than the present
