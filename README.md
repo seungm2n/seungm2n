@@ -18,12 +18,10 @@ Let's not be conceited!
 서로에게 도움이 되는 개발자 되어가요‼
 </div> 
 <br> 
-<div align="center">
 ## 🌙 TMI
 
 - 블로그 : <https://seungm2n.github.io> ✨
 - 이메일 : <seungm2n2@gmail.com>
-</div>
 <br> 
 <div align="center">
 🔥 Used Framework & Skill 🔥
