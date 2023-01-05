@@ -19,9 +19,10 @@ Let's not be conceited!
 </div> 
 <br> 
 <div align="center">
-❤️ I love...
-  
-📸사진
+## 🌙 TMI
+
+- 블로그 : <https://seungm2n.github.io> ✨
+- 이메일 : <seungm2n2@gmail.com>
 </div>
 <br> 
 <div align="center">
