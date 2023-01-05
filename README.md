@@ -17,11 +17,7 @@ Let's not be conceited!
 
 서로에게 도움이 되는 개발자 되어가요‼
 </div> 
-<br> 
-## 🌙 TMI
-
-- 블로그 : <https://seungm2n.github.io> ✨
-- 이메일 : <seungm2n2@gmail.com>
+<br>
 <br> 
 <div align="center">
 🔥 Used Framework & Skill 🔥
@@ -47,7 +43,12 @@ Let's not be conceited!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungm2n&layout=compact&theme=dracula)
 
 </div>
-
+  
+## 🌙 TMI
+  
+- 블로그 : <https://seungm2n.github.io> ✨
+- 이메일 : <seungm2n2@gmail.com>
+  
 <!--
 **seungm2n/seungm2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
