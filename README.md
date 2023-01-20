@@ -8,7 +8,7 @@ Developers looking to the future rather than the present
   
 Hi there 👋
 
-미래를 보는 개발자 양승민입니다."
+"진취적인 자세를 함양하고 있는 양승민입니다."
 
 Let's not be conceited! 
  
