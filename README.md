@@ -8,14 +8,8 @@ Developers looking to the future rather than the present
   
 Hi there 👋
 
-"진취적인 자세를 함양하고 있는 양승민입니다."
-
 Let's not be conceited! 
- 
-코딩은 혼자하는게 아닙니다.
-협업을 위해 배려하며, 성장하기 위해 노력합니다.
 
-서로에게 도움이 되는 개발자 되어가요‼
 </div> 
 <br>
 <br> 
